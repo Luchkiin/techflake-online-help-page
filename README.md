@@ -23,6 +23,6 @@ This project acts as a static webpage consisting of HTML, CSS and JavaScript. I 
 ## Contact
 <a href="mailto:lucas.rosendahl95@gmail.com">lucas.rosendahl95@gmail.com</a>
 <br>
-<a href="https://luchkiin.github.io/techflake-online-help-page/" traget="_blank">Project Link</a>
+<a href="https://luchkiin.github.io/techflake-online-help-page/" target="_blank">Project Link</a>
 <br>
-<a href="https://lucasrosendahl.com" traget="_blank">Portfolio</a>
+<a href="https://lucasrosendahl.com" target="_blank">Portfolio</a>
