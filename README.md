@@ -5,7 +5,7 @@
   </a>
   <h1 align="center">Techflake Online Help Page</h1>
   <p align="center">
-    <a href="https://luchkiin.github.io/techflake-online-help-page/">:arrow_forward: Live Demo</a>
+    :arrow_forward: <a href="https://luchkiin.github.io/techflake-online-help-page/"> Live Demo</a>
   </p>
 </p>
 
