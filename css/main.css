@@ -97,6 +97,10 @@ ol {
     font-size: .9em;
 }
 
+#noop {
+    display: none;
+}
+
 /*-----HEADER-----*/
 
 header {
