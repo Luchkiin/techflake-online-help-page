@@ -21,5 +21,6 @@ This project acts as a static webpage consisting of HTML, CSS and JavaScript. I 
 
 ## Contact
 Lucas Rosendahl - lucas.rosendahl95@gmail.com
+<br>
 Project Link: https://luchkiin.github.io/techflake-online-help-page/
 Portfolio: https://lucasrosendahl.com
