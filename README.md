@@ -20,8 +20,6 @@ This project acts as a static webpage consisting of HTML, CSS and JavaScript. I 
 * CSS
 * JavaScript
 
-## Usage
-
 ## Contact
 Lucas Rosendahl - lucas.rosendahl95@gmail.com
 <br>
