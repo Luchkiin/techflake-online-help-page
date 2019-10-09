@@ -440,6 +440,10 @@ main#text {
     width: 100%;
 }
 
+.grid-item-about-text {
+    align-self: center;
+}
+
 .grid-container-about .grid-item-about img {
     margin-top: 0.8em;
     max-width: 100%;
