@@ -21,6 +21,5 @@ This project acts as a static webpage consisting of HTML, CSS and JavaScript. I 
 * JavaScript
 
 ## Contact
-:email: <a href="mailto:lucas.rosendahl95@gmail.com">lucas.rosendahl95@gmail.com</a>
-<br>
-:globe_with_meridians: <a href="https://lucasrosendahl.com" target="_blank">Portfolio</a>
+* :email: <a href="mailto:lucas.rosendahl95@gmail.com">lucas.rosendahl95@gmail.com</a>
+* :globe_with_meridians: <a href="https://lucasrosendahl.com" target="_blank">Portfolio</a>
