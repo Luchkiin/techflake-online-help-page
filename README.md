@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://github.com/Luchkiin/techflake-online-help-page/blob/master/images/readme-logo.png" alt="Logo" width="150" height="150">
+    <img src="https://github.com/Luchkiin/techflake-online-help-page/blob/master/images/readme-logo-img.png" alt="Logo" width="150" height="150">
   </a>
   <h1 align="center">Techflake Online Help Page</h1>
   <p align="center">
