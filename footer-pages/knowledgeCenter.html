@@ -26,13 +26,15 @@
             </a>
             <ul class="show-desktop hide-mobile" id="nav">
                 <li class="exit-btn hide-desktop" id="exit"><img src="../images/exit.svg" alt="exit menu"></li>
-                <li class="nav-li"><a href="../main-categories/category1.html">Category 1 <span class="arrow"></span></a>
+                <li class="nav-li"><a href="../main-categories/category1.html">Category 1 <span
+                            class="arrow"></span></a>
                     <ul class="sub-menu">
                         <li><a href="../sub-categories/subCategory1/subCategory1_1.html">Sub Category 1.1</a></li>
                         <li><a href="../sub-categories/subCategory1/subCategory1_2.html">Sub Category 1.2</a></li>
                     </ul>
                 </li>
-                <li class="nav-li"><a href="../main-categories/category2.html">Category 2 <span class="arrow"></span></a>
+                <li class="nav-li"><a href="../main-categories/category2.html">Category 2 <span
+                            class="arrow"></span></a>
                     <ul class="sub-menu">
                         <li><a href="../sub-categories/subCategory2/subcategory2_1.html">Sub Category 2.1</a></li>
                         <li><a href="../sub-categories/subCategory2/subCategory2_2.html">Sub Category 2.2</a>
@@ -46,7 +48,8 @@
                         <li><a href="../sub-categories/subCategory3/subCategory3_2.html">Sub Category 3.2</a></li>
                     </ul>
                 </li>
-                <li class="nav-li"><a href="../main-categories/category4.html">Category 4 <span class="arrow"></span></a>
+                <li class="nav-li"><a href="../main-categories/category4.html">Category 4 <span
+                            class="arrow"></span></a>
                     <ul class="sub-menu">
                         <li class="sub-li"><a href="../sub-categories/subCategory4/subCategory4_1.html">Sub Category
                                 4.1</a>
@@ -64,8 +67,10 @@
     </header>
 
     <ul class="breadcrumb">
-        <li><a href="../index.html"><i class="fa fa-home"></i> Home</a></li>
-        <li><span class="current-li-breadcrumb">Knowledge Center</span></li>
+        <div>
+            <li><a href="../index.html"><i class="fa fa-home"></i>Home</a></li>
+            <li><span class="current-li-breadcrumb">Knowledge Center</span></li>
+        </div>
         <div class="help-btns">
             <button onclick="printFunction()" class="print-btn"><i class="fa fa-print" aria-hidden="true"></i></button>
         </div>
@@ -120,34 +125,36 @@
     <button onclick="topFunction()" id="myBtn" title="Go to top" class="fa fa-chevron-up"></button>
 
     <footer>
-            <div class="footer-container-1">
-                <div class="footer-links">
-                    <a href="../footer-pages/about.html">About</a>
-                    <a href="../footer-pages/knowledgeCenter.html">Knowledge Center</a>
-                    <a href="../footer-pages/privacyPolicy.html">Privacy Policy</a>
-                </div>
-                <div class="social-media-icons">
-                    <a href="#" target=_blank><i class="fa fa-facebook"></i></a>
-                    <a href="#" target=_blank><i class="fa fa-twitter-square"></i></a>
-                    <a href="#" target=_blank><i class="fa fa-instagram"></i></a>
-                    <a href="#" target=_blank><i class="fa fa-linkedin-square"></i></a>
-                </div>
+        <div class="footer-container-1">
+            <div class="footer-links">
+                <a href="../footer-pages/about.html">About</a>
+                <a href="../footer-pages/knowledgeCenter.html">Knowledge Center</a>
+                <a href="../footer-pages/privacyPolicy.html">Privacy Policy</a>
             </div>
-            <div class="footer-container-2">
-                <div class="footer-copyright">
-                    <p>
-                        &copy; <script type="text/javascript">document.write( new Date().getFullYear() );</script> <span class="green-text-style">techflake</span> Inc. All Rights Reserved
-                    </p>
-                </div>
-                <div class="footer-links-row2">
-                    <a href="../footer-pages/security.html">Security</a>
-                    <a href="../footer-pages/termsAndConditions.html">Terms</a>
-                    <a href="../footer-pages/support.html">Support</a>
-                </div>
+            <div class="social-media-icons">
+                <a href="#" target=_blank><i class="fa fa-facebook-square"></i></a>
+                <a href="#" target=_blank><i class="fa fa-twitter-square"></i></a>
+                <a href="#" target=_blank><i class="fa fa-instagram"></i></a>
+                <a href="#" target=_blank><i class="fa fa-linkedin-square"></i></a>
             </div>
-        </footer>
-    
-        <script src="../js/main.js"></script>
+        </div>
+        <div class="footer-container-2">
+            <div class="footer-copyright">
+                <p>
+                    &copy;
+                    <script type="text/javascript">document.write(new Date().getFullYear());</script> <span
+                        class="green-text-style">techflake</span> Inc. All Rights Reserved
+                </p>
+            </div>
+            <div class="footer-links-row2">
+                <a href="../footer-pages/security.html">Security</a>
+                <a href="../footer-pages/termsAndConditions.html">Terms</a>
+                <a href="../footer-pages/support.html">Support</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
 
 </body>
 
