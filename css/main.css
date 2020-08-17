@@ -397,7 +397,7 @@ div.side-nav-container a {
     text-align: center;
     color: #FFFFFF;
     text-transform: uppercase;
-    background-image: url("/images/hero-image.jpg");
+    background-image: url("../images/hero-image.jpg");
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
