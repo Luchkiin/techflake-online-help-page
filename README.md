@@ -11,7 +11,7 @@
 
 ## About the Project
 
-<img src="https://github.com/Luchkiin/techflake-online-help-page/blob/master/images/techflake-project-overview-green.jpg" alt="Logo" width="Auto" height="Auto">
+<img src="https://github.com/Luchkiin/portfolio-v2/blob/master/images/og-images/techflake.png" alt="Logo" width="Auto" height="Auto">
 
 This project acts as a static webpage consisting of HTML, CSS and JavaScript. I created this project as a template for future companys to apply for their online help sections, whether it be for a product/service.
 
