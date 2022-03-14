@@ -13,7 +13,7 @@
 
 <img src="https://github.com/Luchkiin/portfolio-v3/blob/master/images/works/techflake/techflake_image_big.png" alt="Logo" width="Auto" height="Auto">
 
-This project acts as a static webpage consisting of HTML, CSS and JavaScript. I created this project as a template for future companys to apply for their online help sections, whether it be for a product/service.
+Techflake is a concept wiki page that serves as a great support page for companies with different products and services within their ecosystem. The project is based on the summer internship I had at OpusCapita 2019 where I was assigned the task of documenting and creating a new wiki page for them.
 
 ## Built With
 * HTML
