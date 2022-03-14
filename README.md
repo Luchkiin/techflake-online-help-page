@@ -1,10 +1,6 @@
-<br />
-<p align="center">
-  <a href="#">
-    <img src="https://github.com/Luchkiin/techflake-online-help-page/blob/master/images/readme-logo-img.png" alt="Logo" width="150" height="150">
-  </a>
-  <h1 align="center">Techflake Online Help Page</h1>
-</p>
+<br>
+<h1 align="left">Techflake</h1>
+<p align="left">Website / Wiki / Concept</p>
 
 <img src="https://github.com/Luchkiin/portfolio-v3/blob/master/images/works/techflake/techflake_image_big.png" alt="Logo" width="Auto" height="Auto">
 
@@ -22,3 +18,4 @@ Techflake is a concept wiki page that serves as a great support page for compani
 ## Contact
 * <a href="mailto:lr@lucasrosendahl.com">lr@lucasrosendahl.com</a>
 * <a href="https://lucasrosendahl.com" target="_blank">Portfolio</a>
+<br>
